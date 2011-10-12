@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<project name="SimpleAntProject">
+	
+	<property name="build.dir" location=".."/>
+	<property name="src.dir" location="src/"></property>
+	<target name="prepare">
+		<mkdir dir="${build.dir}"/>
+	</target>
+	<target name="compile">
+		<javac
+			deprecation="on"
+			>
+			<src path="src/com/pl/adam/"/>
+		</javac>
+	</target>
+</project>
