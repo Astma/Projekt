@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419172153
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1318419172199
+activated,perspective,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.JavaPerspective",1318419178893
+activated,editor,org.eclipse.ant.ui,3.5.100.v20110510,"org.eclipse.ant.ui.internal.editor.AntEditor",1318419178893
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318419182218
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318419186001
+started,bundle,org.eclipse.jdt.debug,3.7.1.v20110802_r371,"org.eclipse.jdt.debug",1318419186308
+started,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20110803_r371,"org.eclipse.jdt.debug.ui",1318419186554
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318419186679
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318419200091
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318419269731
+started,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1318419284538
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.1.v201108080010,"org.eclipse.jpt.jaxb.ui",1318419284570
+started,bundle,org.eclipse.jpt.jpa.ui,3.0.1.v201108080010,"org.eclipse.jpt.jpa.ui",1318419284601
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1318419284694
+started,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1318419284694
+started,bundle,org.eclipse.pde.api.tools,1.0.301.v20110728_r371,"org.eclipse.pde.api.tools",1318419284835
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1318419284835
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.1.v201108080010,"org.eclipse.jpt.jaxb.core",1318419285420
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110505-0800,"org.eclipse.jdt.junit",1318419286435
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1318419307114
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318419312826
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419330747
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419355891
+started,bundle,org.eclipse.egit.mylyn.ui,1.1.0.201109151100-r,"org.eclipse.egit.mylyn.ui",1318419356488
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419356566
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419390644
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.Commit",1318419390660
+executed,command,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.project.closeProject",1318419423287
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318419423599
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419547967
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419554122
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419557983
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419603960
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1318419603983
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419612348
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419616833
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1318419616845
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1318419616845
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419622788
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419630792
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419632797
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419690314
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1318419690345
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419696653
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419712298
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419713493
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419783518
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1318419783549
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419799488
+error,log,,,"Internal Error",1318419802849
+error,log,,,"Problems encountered while deleting resources.",1318419802851
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419806823
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1318419806838
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1318419806838
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419814357
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.PullCurrentBranchAction",1318419814357
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.PullCurrentBranchAction",1318419814357
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419814357
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimplePush",1318419814357
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimplePush",1318419814357
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419814373
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimpleFetch",1318419814373
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimpleFetch",1318419814373
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419821956
+error,log,,,"Internal Error",1318419825449
+error,log,,,"Problems encountered while deleting resources.",1318419825449
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419835916
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1318419835926
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1318419835926
+activated,editor,org.eclipse.ant.ui,3.5.100.v20110510,"org.eclipse.ant.ui.internal.editor.AntEditor",1318419840314
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318419840393
+closed,editor,org.eclipse.ant.ui,3.5.100.v20110510,"org.eclipse.ant.ui.internal.editor.AntEditor",1318419840393
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419843504
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.PullCurrentBranchAction",1318419843505
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.PullCurrentBranchAction",1318419843506
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419843510
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimplePush",1318419843510
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimplePush",1318419843512
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419843514
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimpleFetch",1318419843515
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimpleFetch",1318419843516
+error,log,,,"Unhandled event loop exception",1318419853789
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419853869
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419863499
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419865549
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419933526
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1318419933548
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1318419933548
+started,bundle,org.eclipse.wst.jsdt.debug.rhino.ui,1.0.0.v201103232243,"org.eclipse.wst.jsdt.debug.rhino.ui",1318419934321
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419947095
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419951473
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1318419951473
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1318419951473
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419955698
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.PullCurrentBranchAction",1318419955698
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.PullCurrentBranchAction",1318419955713
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419955713
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimplePush",1318419955713
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimplePush",1318419955713
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.ui.workbench"".",1318419955713
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimpleFetch",1318419955713
+error,log,,,"Failed to update action org.eclipse.egit.ui.team.SimpleFetch",1318419955713
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419959354
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419962443
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1318419962443
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1318419962443
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419965686
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419982219
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318419985196
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420002401
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1318420002401
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.import",1318420002401
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420023368
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420028371
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420034260
+error,log,,,"Internal Error",1318420039263
+error,log,,,"Problems encountered while deleting resources.",1318420039265
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420040962
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1318420040970
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1318420040970
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420048151
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420050197
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1318420050207
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.delete",1318420050207
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420052368
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420082929
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420088415
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420176150
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420183248
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420193833
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420200505
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420215128
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318420215410
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318420215535
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318420221493
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420226310
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420261919
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420296927
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420327615
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420328850
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420339887
+error,log,,,"An exception occurred while looking up the repository path ""C:\\Users\\Kamui\\git\\gitfolder\\cos\\.git""; it will be removed from the Git Repositories view",1318420353393
+opened,view,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesView",1318420353580
+activated,view,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesView",1318420353642
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.ShowRepositoriesView",1318420354450
+error,log,,,"Unhandled event loop exception",1318420354533
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420361868
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420378772
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesViewNewRemote",1318420378785
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318420381156
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420383474
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420393184
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.export",1318420393196
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.export",1318420393196
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420411568
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420412338
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420412447
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420416937
+activated,perspective,org.eclipse.team.ui,3.6.100.I20110525-0800,"org.eclipse.team.ui.TeamSynchronizingPerspective",1318420416999
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318420417046
+activated,view,org.eclipse.team.ui,3.6.100.I20110525-0800,"org.eclipse.team.sync.views.SynchronizeView",1318420417124
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420436072
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420465038
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.Commit",1318420465038
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318420467707
+closed,view,org.eclipse.team.ui,3.6.100.I20110525-0800,"org.eclipse.team.sync.views.SynchronizeView",1318420467718
+activated,perspective,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.JavaPerspective",1318420471206
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318420475010
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420490566
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420508292
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.Commit",1318420508304
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420508656
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420511559
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420519438
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420535541
+activated,view,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesView",1318420555836
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.views.showView",1318420555836
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420587941
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420655614
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesViewPaste",1318420655630
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420655942
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420656535
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420676300
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420676362
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420676487
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420687126
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.Push",1318420687142
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318420711618
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421169761
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421174824
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421176400
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesViewDelete",1318421176415
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421180893
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421184543
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesViewDelete",1318421184574
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421189925
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421196805
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesViewDelete",1318421196820
+closed,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318421196992
+error,log,,,"Could not delete file D:\\Studenci\\PJWSTK\\Metody Programowania\\Workspace\\.metadata\\.lock",1318421197928
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421198006
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421200705
+activated,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.ProgressView",1318421204792
+closed,view,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesView",1318421204792
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318421210392
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421220673
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421238457
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421249043
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421322777
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421355413
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421362121
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.Commit",1318421362136
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421369515
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421382931
+opened,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318421383181
+activated,editor,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1318421383306
+activated,view,org.eclipse.jdt.ui,3.7.1.r371_v20110824-0800,"org.eclipse.jdt.ui.PackageExplorer",1318421387237
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421394413
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421414724
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.Commit",1318421414724
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421439294
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421446657
+opened,view,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesView",1318421446735
+activated,view,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesView",1318421446766
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.views.showView",1318421446766
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.views.showView",1318421446766
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1318421457562
+activated,view,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesView",1318421457577
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421467873
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421490493
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421490603
+no handler,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.undo",1318421592427
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421606971
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesViewNewRemote",1318421607018
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.SimplePush",1318421619015
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421619334
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421625411
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421625440
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421630194
+error,log,,,"An exception occurred during push on URI ssh://git@github.com/Tokiya/GitProject.git: An internal Exception occurred during push: ssh://git@github.com/Tokiya/GitProject.git: Auth fail",1318421636205
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421636289
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421642242
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421642355
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421666737
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.SimplePush",1318421670574
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421670875
+error,log,,,"An exception occurred during push on URI ssh://Tokiya@github.com/Tokiya/GitProject.git: An internal Exception occurred during push: ssh://Tokiya@github.com/Tokiya/GitProject.git: Auth fail",1318421671911
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421671935
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421672006
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421675253
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318421675339
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1318422690579
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1318422718934
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422734134
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.SimplePush",1318422738584
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422738904
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422747534
+started,bundle,org.eclipse.equinox.security.ui,1.1.0.v20101004,"org.eclipse.equinox.security.ui",1318422747654
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422747834
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422763964
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422766904
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422767064
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422771274
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422786254
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.RepositoriesViewConfigurePush",1318422786274
+executed,command,org.eclipse.egit.ui,1.1.0.201109151100-r,"org.eclipse.egit.ui.team.SimplePush",1318422790484
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422790794
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422795064
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422795134
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422800094
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318422803294
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318424558623
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318424568964
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1318424571631
