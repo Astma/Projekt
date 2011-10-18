@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="SimpleProject2" basedir=".">
+	
+	<property name="src.dir" value="src"/>
+	<property name="bin.dir" value="bin"/>
+	<property name="jar.dir" value="${bin.dir}/jar"/>
+	
+ 	<target name="compile">
+ 		<mkdir dir="${bin.dir}"/>
+ 		<javac srcdir="${src.dir}" destdir="${bin.dir}"/>
+ 	</target>
+
+	<target name="jar">
+		<mkdir dir="${jar.dir}"/>
+		<jar destfile="${jar.dir}/SimpleProject2.jar" basedir="${bin.dir}">
+			<manifest>
+				<attribute name="Main-Class" value="com.pl.adam.Main"/>
+			</manifest>	
+		</jar>
+	</target>
+	
+	<target name="run">
+		<java jar="bin/jar/SimpleProject2.jar" fork="true"/>
+	</target>
+
+	<target name="clean">
+		<delete dir="bin"/>
+	</target>
+</project>
