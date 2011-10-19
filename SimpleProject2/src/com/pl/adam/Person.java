@@ -9,6 +9,16 @@ public class Person {
 
 	private List<Car> cars= new ArrayList<Car>();
 	
+	public String toString()
+	{
+		return name + " has " + cars.size()+" cars.";
+	}
+	
+	public void addCar(Car c)
+	{
+		cars.add(c);
+	}
+	
 	public void printCars()
 	{
 		for(Car c: cars)
@@ -17,10 +27,10 @@ public class Person {
 		}
 	}
 	
-	public Person(String name, List<Car> cars) {
+	public Person(String name) {
 		super();
 		this.name = name;
-		this.cars = cars;
+		this.cars = new ArrayList<Car>();
 	}
 	
 	public String getName() {

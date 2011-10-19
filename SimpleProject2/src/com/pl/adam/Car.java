@@ -2,7 +2,8 @@ package com.pl.adam;
 
 public class Car {
 
-	private String mark;
+	private CarMarks mark;
+	
 	private String register_number;
 	
 	public void printCar()
@@ -11,18 +12,18 @@ public class Car {
 	}
 	
 	
-	public Car(String mark, String reg_number)
+	public Car(CarMarks mark, String reg_number)
 	{
 		this.mark=mark;
 		this.register_number=reg_number;
 	}
 	
-	public String getMark()
+	public CarMarks getMark()
 	{
 		return this.mark;
 	}
 	
-	public void setMark(String mark)
+	public void setMark(CarMarks mark)
 	{
 		this.mark=mark;
 	}
