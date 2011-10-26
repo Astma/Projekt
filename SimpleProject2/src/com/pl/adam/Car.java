@@ -2,9 +2,24 @@ package com.pl.adam;
 
 public class Car {
 
+	private double prize;
+	
 	private CarMarks mark;
 	
 	private String register_number;
+	
+	public void setPrize(double prize) throws MyException
+	{
+		if(prize < 0)
+			throw new MyException("prize can not be less than zero");
+		else
+			this.prize=prize;
+	}
+	
+	public String toString()
+	{
+		return this.mark + " "+this.register_number;
+	}
 	
 	public void printCar()
 	{
@@ -36,5 +51,5 @@ public class Car {
 	{
 		this.register_number=reg_number;
 	}
-	
+
 }

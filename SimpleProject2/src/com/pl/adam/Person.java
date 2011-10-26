@@ -3,8 +3,12 @@ package com.pl.adam;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 public class Person {
-
+	private PropertyConfigurator logConfig = new PropertyConfigurator();
+	private Logger logger=Logger.getLogger(Person.class);
+	
 	private String name;
 
 	private List<Car> cars= new ArrayList<Car>();
@@ -17,6 +21,8 @@ public class Person {
 	public void addCar(Car c)
 	{
 		cars.add(c);
+		logConfig.configure("Log4J.properties");
+		logger.info("Car " + c + "Had been added to " + this);
 	}
 	
 	public void printCars()
@@ -32,6 +38,8 @@ public class Person {
 		this.name = name;
 		this.cars = new ArrayList<Car>();
 	}
+	
+	
 	
 	public String getName() {
 		return name;
