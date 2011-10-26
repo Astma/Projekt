@@ -1,8 +1,5 @@
 package com.pl.adam;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main {
 
 	
