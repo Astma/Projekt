@@ -1,10 +1,11 @@
-package com.pl.adam;
+package com.pl.adam.projectfiles;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+
 public class Person {
 	private PropertyConfigurator logConfig = new PropertyConfigurator();
 	private Logger logger=Logger.getLogger(Person.class);

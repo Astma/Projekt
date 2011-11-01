@@ -1,4 +1,4 @@
-package com.pl.adam;
+package com.pl.adam.projectfiles;
 
 public class MyException extends Exception {
 

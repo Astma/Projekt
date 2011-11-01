@@ -1,7 +1,8 @@
-package com.pl.adam;
+package com.pl.adam.projectfiles;
 
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.log4j.Logger;
+
 
 public class Main {
 
