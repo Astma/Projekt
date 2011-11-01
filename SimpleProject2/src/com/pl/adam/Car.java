@@ -4,6 +4,9 @@ public class Car {
 
 	private double prize;
 	
+	public double getPrize() {
+		return prize;
+	}
 	private CarMarks mark;
 	
 	private String register_number;
@@ -31,6 +34,12 @@ public class Car {
 	{
 		this.mark=mark;
 		this.register_number=reg_number;
+	}
+	
+	public Car(CarMarks mark,double prize)
+	{
+		this.mark=mark;
+		this.prize=prize;
 	}
 	
 	public CarMarks getMark()
