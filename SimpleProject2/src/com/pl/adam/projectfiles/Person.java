@@ -42,7 +42,7 @@ public class Person {
 	
 	
 	
-	public void usunGre(String nazwa) {
+	public void deleteCar(String nazwa) {
 		int pozycja = 0;
 		for (Car game : cars) {
 			if (game.getMark().equals(nazwa)) {
@@ -56,7 +56,7 @@ public class Person {
 
 
 
-	public void edytujGre(CarMarks nazwa, double cenaNowa) throws MyException {
+	public void editCar(CarMarks nazwa, double cenaNowa) throws MyException {
 		int pozycja = 0;
 		for (Car car : cars) {
 			if (car.getMark().equals(nazwa)) {
