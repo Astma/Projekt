@@ -6,7 +6,12 @@ import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
+import org.junit.Ignore;
 import org.junit.Test;
+
+import com.pl.adam.projectfiles.Car;
+import com.pl.adam.projectfiles.CarMarks;
+import com.pl.adam.projectfiles.MyException;
 
 public class PersonTest {
 
@@ -72,6 +77,7 @@ public class PersonTest {
 	}
 
 	@Test
+	@Ignore
 	public void testGetCars() {
 		fail("Not yet implemented"); // TODO
 	}
@@ -81,4 +87,9 @@ public class PersonTest {
 		fail("Not yet implemented"); // TODO
 	}
 
+	@Test(expected=MyException.class, timeout=100)
+	public void testException() throws MyException 
+	{
+		new Car(CarMarks.AlfaRomeo,"").setPrize(-8.0);
+	}
 }

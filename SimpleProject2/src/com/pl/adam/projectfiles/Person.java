@@ -7,7 +7,6 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 public class Person {
-	private PropertyConfigurator logConfig = new PropertyConfigurator();
 	private Logger logger=Logger.getLogger(Person.class);
 	
 	private String name;
@@ -22,7 +21,7 @@ public class Person {
 	public void addCar(Car c)
 	{
 		cars.add(c);
-		logConfig.configure("Log4J.properties");
+		PropertyConfigurator.configure("Log4J.properties");
 		logger.info("Car " + c + "Had been added to " + this);
 	}
 	
